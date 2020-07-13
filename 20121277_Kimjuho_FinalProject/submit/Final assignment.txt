@@ -1,0 +1,91 @@
+class
+-> 메인 카페히어로 매출 txt파일
+-> 기온 txt 파일
+init으로 from_month, to_month 받음
+
+
+utility
+
+
+# 1학기 과제 제출
+
+directory structure
+
+1학기과제/
+	data/
+		카페히어로매출.txt
+		온도.txt
+	결과를사용하는.ipynb
+	클래스를정의하는.py
+	크롤링.py
+	유틸리티.py
+
+
+# 사용방법
+
+** 결과를사용하는.ipynb
+from 클래스를정의하는 import JuhoClass 
+juho_instance = JuhoClass(from_month='201801', to_month='202001')
+juho_instance.piplot()
+
+
+
+juho_instance.polar()
+
+
+
+juho_instance.barplot()
+
+
+
+
+juho_instance.custom_plot('column_1', 'column_2')
+
+
+
+
+
+class Main():
+	def __init__(self, from, to):
+
+
+
+class BarPlot(Main)
+
+class PiPlot(Main)
+
+class LinePlot(Main)
+
+class HistoPlot(Main)
+
+
+from utils import read_text, read_json, read_csv, save_text, save_json, save_csv
+
+class JuhoClass():
+	income_path = ""
+	temp_path = ""
+	
+	def __init__(self, from, to):
+		self.text = read_text(incon)
+		self.temp = read_temxt()
+		self.df = self.preprocess(self.text, self.temp)
+
+	def preprocess(self, text, temp):
+		# make dataframe
+		return dataframe
+
+	def barplot():
+		plot.show()
+
+	def piplot():
+		plot.show()
+
+
+
+  ==========================================
+Gross Sales
+Average Sales (Total Period) 
+Average Sales (Last 3 Months) 
+
+timechecker 쓰고싶음
+저 경고메세지는 뭔가
