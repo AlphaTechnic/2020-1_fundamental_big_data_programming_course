@@ -23,7 +23,7 @@
 
 ### Directory Structure
 
-![img1](./img1.jpg)
+![img1](./imgs/img1.jpg)
 
 
 
@@ -38,11 +38,11 @@
 
 ### Analyze and Visualize
 
-![img2](./img2.jpg)
+![img2](./imgs/img2.jpg)
 
-![img3](./img3.jpg)
+![img3](./imgs/img3.jpg)
 
-![img4](./img4.jpg)
+![img4](./imgs/img4.jpg)
 
-![img5](./img5.jpg)
+![img5](./imgs/img5.jpg)
 
