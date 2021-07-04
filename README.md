@@ -23,7 +23,7 @@
 
 ### Directory Structure
 
-  ![img1](./img1.jpg)  
+![img1](./img1.jpg)
 
 
 
@@ -36,13 +36,13 @@
 
 
 
-- calculator assignment
+## Analyze and Visualize
 
-  ![img1](C:/Users/juho3/Desktop/깃깃깃/2020-1_C_programming_course/img1.jpg)
+![img2](./img2.jpg)
 
+![img3](./img3.jpg)
 
+![img4](./img4.jpg)
 
-- transpose matrix practice
-
-  ![img2](C:/Users/juho3/Desktop/깃깃깃/2020-1_C_programming_course/img2.jpg)
+![img5](./img5.jpg)
 
