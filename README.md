@@ -58,10 +58,10 @@
   	Data/
   		cafehero_sales.txt
   		averages_monthly_temperature.txt
-      Main_Program.ipynb
-      Analyze.py
-      Crawling_temperature.py
-      Utility.py
+      main_program.ipynb
+      analyzer.py
+      crawling_temperature.py
+      utility.py
   ```
 
   ​
