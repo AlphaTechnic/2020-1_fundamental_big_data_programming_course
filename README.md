@@ -9,7 +9,7 @@
 
 
 
-## Final term Project
+## Final term Project (직접 운영한 매장 매출 기록으로 데이터분석)
 
 ### Description
 
@@ -72,7 +72,7 @@
 
 - `def build_DataFrame_from_text(path)`
 
-  ![그림입니다.원본 그림의 이름: CLP000020580004.bmp원본 그림의 크기: 가로 980pixel, 세로 376pixel](./_doc_about_final_proj/ImgsForDoc/tmp5EA3.jpg)    ![그림입니다.원본 그림의 이름: CLP000020580005.bmp원본 그림의 크기: 가로 983pixel, 세로 503pixel](file:///C:\Users\juho3\AppData\Local\Temp\tmp7BF5.jpg)  
+  ![그림입니다.원본 그림의 이름: CLP000020580004.bmp원본 그림의 크기: 가로 980pixel, 세로 376pixel](./_doc_about_final_proj/ImgsForDoc/tmp5EA3.jpg)    ![그림입니다.원본 그림의 이름: CLP000020580005.bmp원본 그림의 크기: 가로 983pixel, 세로 503pixel](./_doc_about_final_proj/ImgsForDoc/tmp7BF5.jpg)  
 
   - path에 있는 데이터를 가져와 DataFrame을 생성하여 돌려주는 함수를 정의
   - 해당 파일을 읽어오는 것을 실패했을 경우에 대한 예외처리를 해준다. 파일 읽기에 실패하였다는 메시지를 출력해준다.

@@ -35,10 +35,10 @@
 	Data/
 		cafehero_sales.txt
 		averages_monthly_temperature.txt
-    Main_Program.ipynb
-    Analyze.py
-    Crawling_temperature.py
-    Utility.py
+    main_program.ipynb
+    analyzer.py
+    crawling_temperature.py
+    utility.py
 ```
 
 
@@ -47,9 +47,9 @@
 
 ```python
 # Maib_Program.ipynb에서
-import Analyze
-Analyze_instance = Analyze(begin_month='2017-03', end_month='2017-05')
-Analyze_instance.piplot()
+import analyzer
+analyzer_instance = analyzer.Analyzer(begin_month='2017-03', end_month='2017-05')
+analyzer_instance.piplot()
 ```
 
 
